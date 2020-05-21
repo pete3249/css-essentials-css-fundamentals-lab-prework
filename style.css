@@ -36,7 +36,11 @@ figure figcaption {
   float: left;
 }
 
-
+div {
+  background-color: red;
+  text-align: center;
+  width: ;
+}
   
 body {
   width: 100%;
